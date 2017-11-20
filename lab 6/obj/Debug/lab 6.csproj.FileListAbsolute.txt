@@ -1,0 +1,6 @@
+c:\users\tim.mahan\documents\visual studio 2012\Projects\lab 6\lab 6\bin\Debug\lab 6.exe.config
+c:\users\tim.mahan\documents\visual studio 2012\Projects\lab 6\lab 6\bin\Debug\lab 6.exe
+c:\users\tim.mahan\documents\visual studio 2012\Projects\lab 6\lab 6\bin\Debug\lab 6.pdb
+c:\users\tim.mahan\documents\visual studio 2012\Projects\lab 6\lab 6\obj\Debug\lab 6.csprojResolveAssemblyReference.cache
+c:\users\tim.mahan\documents\visual studio 2012\Projects\lab 6\lab 6\obj\Debug\lab 6.exe
+c:\users\tim.mahan\documents\visual studio 2012\Projects\lab 6\lab 6\obj\Debug\lab 6.pdb
